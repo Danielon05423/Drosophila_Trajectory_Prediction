@@ -1,0 +1,4 @@
+model,median_error_mm,mean_error_mm,p90_error_mm,rmse_mm,vs_baseline_%
+LSTM (learned),0.8881817,1.1638829,2.3951116,1.5359901,42.56815
+Constant velocity (baseline),1.5464966,1.8411607,3.4507394,2.3483262,0.0
+Stopped (no movement),3.9468493,4.331065,6.8325925,4.732403,-155.21228
