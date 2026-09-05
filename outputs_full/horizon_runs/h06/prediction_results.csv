@@ -1,4 +1,3 @@
-model,median_error_mm,mean_error_mm,p90_error_mm,rmse_mm,vs_baseline_%
-LSTM (learned),0.08805427,0.1040452,0.19426195,0.14036763,65.03773
-Constant velocity (baseline),0.25185508,0.28986958,0.5256776,0.37602273,0.0
-Stopped (no movement),0.7484201,0.8375276,1.4284079,0.9510491,-197.16301
+version https://git-lfs.github.com/spec/v1
+oid sha256:1401e07072d8f319be8a2067e19f2ffe4e5fbc2c17ff1a228aced2e309b5136c
+size 287
