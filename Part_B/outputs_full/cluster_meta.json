@@ -1,6 +1,6 @@
 {
   "best_k": 7,
-  "best_silhouette": 0.07505962431332151,
+  "best_silhouette": 0.0750596243133215,
   "final_silhouette": 0.076750957899257,
   "segment_length": 40,
   "segments_per_fly": 15,
